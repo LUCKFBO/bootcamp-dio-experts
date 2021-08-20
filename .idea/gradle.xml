@@ -4,10 +4,24 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/config-server" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/config-server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/product-catalog" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle" />
-        <option name="gradleJvm" value="jbr-11" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/product-catalog" />
@@ -15,10 +29,12 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/shopping-cart" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle" />
-        <option name="gradleJvm" value="jbr-11" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/shopping-cart" />
