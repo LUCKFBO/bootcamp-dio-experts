@@ -1,6 +1,7 @@
 # Construindo um projeto com arquitetura baseada em microsserviços usando Spring Cloud - bootcamp-dio-experts
 
-Exercício prático de como funciona uma arquitetura de software baseada em microsserviços, os seus benefícios e desafios.
+Exercício prático do funcionamento de uma arquitetura de software baseada em microsserviços, service discovery 
+que em conjunto com outras ferramentas possibilita gerenciamento dinâmico e escalabilidade para as aplicações.
 
 ## Atividades que serão desenvolvidas e abordadas:
 
@@ -9,6 +10,8 @@ Exercício prático de como funciona uma arquitetura de software baseada em micr
 * Elasticsearch
 * Redis
 * Spring Cloud
+* Eureka
+* Server Config
 
 ## Comandos úteis PowerShell:
 

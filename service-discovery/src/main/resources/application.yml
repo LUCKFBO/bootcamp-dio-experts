@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: service-discovery
+  config:
+    import: http://localhost:8888/
