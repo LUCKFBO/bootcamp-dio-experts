@@ -62,5 +62,5 @@ Invoke-RestMethod @Params
 ```
 Para executar um GET no shopping-cart
 ```
-Invoke-RestMethod -Uri "http://localhost:8080/product/1"
+Invoke-RestMethod -Uri "http://localhost:8082/cart/1"
 ```
